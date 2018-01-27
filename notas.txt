@@ -1,0 +1,108 @@
+
+La idea es que el resultado de cada carta dependa de una formula de las variables, por ejemplo, intentar sobornar a una civilizacion, depende de la cantidad de dinero que tenes. Intentar entrar en guerra, depende de la tecnologia y apoyo popular que tenes, etc. Ademas es posible darle personalidad a cada raza, en el sentido de que se puede tener un espectro que defina si una decision es mas probable de salir con la raza cero o la raza uno. Como seria esto? Hay un numero que representa si la decision es mas atractiva para la raza 0 o 1. Si el numero es 0.9, es mas atractivo a la raza 1, esto pdoria ser el resultado de que la carta ofrece un ataque militar, y la raza 1 es mas militar.
+
+Posible nombre del juego:
+
+
+
+Nombres de razas: Los pox, los chet, los warry, los 
+
+
+Finales:
+
+	Cada raza puede ser conquistada politicamente o militarmente.
+
+
+Indicadores:
+	Relacion raza 0:
+	Relacion raza 1:
+	Apoyo popular:
+	Tecnologia:
+	Dinero:
+	Tiempo: Hay cartas que tienen mejores o peores resultados segun el turno en que son usadas, espiar, por ejemplo, es mas efectivo en turnos mas adelantados, 
+
+Decisiones independientes del tiempo:
+	Ester Eggs:
+
+	Oportunidades:
+
+	Desastres:
+
+
+Decisiones especiales:
+
+	Mala relacion raza X:
+
+		+ 	Los X nos desprecian, es hora de que aprendan quien manda.
+
+		+	Una sonda X esta pasara cerca de la tierra, si la asaltamos podriamos descubrir los secretos de su tecnologia! ( plata, si tenologia es baja, te descubren)
+
+		+ 
+		+
+		+
+		+
+		+
+		+
+	Buena relacion raza X:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Buen apoyo popular:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Mal apoyo popular:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Buena tecnologia:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Mala tecnologia:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Buen dinero:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+	Mal dinero:
+		+
+		+
+		+
+		+
+		+
+		+
+		+
+		+
